@@ -1,0 +1,71 @@
+
+#message-me{
+        background-image: url(https://tr.rbxcdn.com/180DAY-a789f4f27c7fb0620b9d169c0bdd7048/500/280/Image/Jpeg/noFilter);
+        background-size:cover;
+        opacity: 1;
+}
+#txt1{
+    margin-bottom:100px ;
+    margin-top:-400px;
+}
+#txt2{
+    margin-right:50px;
+
+}
+
+h1{
+    margin-bottom:50px;
+    margin-top:70px;
+
+}
+h2 {
+    row-gap:1px;;
+    margin-left:30px;
+}
+
+label{
+    margin-left:30px;
+    margin-top:5px
+}
+input{
+    margin-left:30px;
+    margin-top:5px;
+    margin-right:60px;
+}
+button{
+    margin-left:30px;
+    margin-top:5px
+}
+hr{
+    color:white
+}
+.center{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  Margin-top:65px;
+}
+img{
+    border: 5px solid #b10707;
+}
+p{
+    margin-top: 50px;
+    border:#ffffff;
+
+   
+}
+li {
+  list-style-type: none;
+}
+
+    
+#tabel{
+    margin-top:50px;
+    margin-left:300px;
+    margin-left:px;
+    size: 4px;
+}
+a{
+    padding-bottom:20px;
+
+}
